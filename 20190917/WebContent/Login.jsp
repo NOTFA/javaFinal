@@ -7,7 +7,7 @@
 <title>get 방식 요청</title>
 </head>
 <body>
-<form action="ST06" method="get">
+<form action="Login" method="get">
 
 		아이디 : <input type="text" name="id" /></br>
 		비밀번호 : <input type="password" name="password" /></br> 
